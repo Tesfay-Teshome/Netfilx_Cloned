@@ -105,9 +105,13 @@ td img{
 table{
     width:100%;
     border-collapse:collapse;
+    padding:10px;
 }
 td img:hover{
     width:240px;
     height:110px;
+    
 }
-
+td, tr{
+    border:5px solid;
+}
